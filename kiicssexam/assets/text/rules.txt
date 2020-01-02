@@ -1,0 +1,54 @@
+			                   <h2> ONLINE EXAMINATION INSTRUCTION</h2>
+-------------------------------------------------------------------------------------------------------------------------------------
+ <h4>INSTRUCTIONS<h4> 
+
+ Dear Student,
+  
+ Please read the attached Online Examination Instructions for your information and necessary action.
+ 
+ KIICS shall conduct the online exam within Bhubaneswar as well as from onsite. KIICS shall make neccessary arrangement
+ (through APPIN TECHNOLOGY LAB) for students to appear for online examination at the corporate premises once a month as
+ per the mutually aggreed schedule. The corporate shall provide pre-requisite infrastructure, PC, Internet connection,
+ administration & resource arrangements. The online exam at corporate premises will be monitored and managed by the 
+ respective program coordinator from that corporate. Students who fail to appear for monthly online examination at corporate 
+ premises or have backlog exam, for such students online exam will be conducted through designated KIICS Centre along with 
+ regular students through On-Demand Examination procedure and policies
+
+ We are conducting the exam for onsite students in an administered mode from an authenticated location such as company, 
+ university, embassy, school, etc. The administered mode implies scheduling the said examination with KIICS and being monitored 
+ by a respectable person from above enumerated institutions/organizations. The administering authority and the scheduled 
+ examination shall require prior approval of KIICS. The online examinations will be conducted as per the rules and policies set 
+ forth by KIICS from time to time.
+
+ - All the questions are from the module "Introduction to Information Security".
+ - This online examination consists of 50 questions.
+ - The time duration for the examination is 30 minutes.
+ - Don't open any other tab or window or refresh the window.Such activity will automatically lead to cancellation of examination thereafter.
+ - Mobiles and other digital devices are not allowed in the exam.
+ - Do not use keyboards during the examination.
+ - Do not close the browser when the test is going on.
+ - During the test, please ensure you maintain silence and do not disturb others.
+ - The test hall is monitored using web cameras and closed circuit TV cameras and any disruption / disturbance by an applicant is deemed as 
+   misconduct and can have dire consequences. 
+ - If we find an applicant using unfair means, or impersonating someone else, his or her application 
+   will be cancelled and he or she will be liable to be debarred from taking the entrance examination permanently or for a specified period, 
+   as decided by the concerned KIICS authorities.
+ - No re-evaluation/re-checking for online examination.
+ - KIICS Contact Point – <b><u>eexam@kiics.in</u></b>
+
+ * Once you click on "I agree" button you will appear your question sheet page.
+
+<h4> Wish You All The Best !!! </h4>
+
+
+                           <h4> Powered by <strong>BS&S TECHNOLOGY CONSULTING & RESEARCH GROUP</strong> </h4>
+
+				
+
+ 
+	
+
+
+
+
+
